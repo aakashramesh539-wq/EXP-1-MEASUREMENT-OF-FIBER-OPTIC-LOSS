@@ -33,7 +33,7 @@ bending_loss = 20 * math.log10(input_voltage / output_voltage)
 print("Bending Loss =", round(bending_loss, 2), "dB")
 ```
 # TABULATION
-<img width="1153" height="1536" alt="image" src="https://github.com/user-attachments/assets/b0f7de12-59a5-4595-9709-66139398abaa" />
+<img width="1153" height="1536" alt="image" src="https://github.com/user-attachments/assets/d6499087-c521-4359-97b3-e72896684505" />
 
 # RESULT
 Thus, the propagation loss and bending loss of the optical fibre were studied successfully.
